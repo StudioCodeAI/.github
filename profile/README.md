@@ -1,98 +1,151 @@
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/StudioCodeAI/Lya-Studio-Coder/main/assets/lya-logo.jpg" alt="Studio Code AI" width="180" />
+<img src="https://raw.githubusercontent.com/StudioCodeAI/Lya-Studio-Coder/main/assets/lya-logo.jpg" alt="Studio Code AI" width="200" />
+
+<br/>
 
 # Studio Code AI
 
-### Ferramentas de desenvolvimento com IA — local-first, multi-provider, open architecture.
+**Construindo o futuro do desenvolvimento com Inteligência Artificial.**
 
-[![Produto Principal](https://img.shields.io/badge/Produto-Lya%20Studio%20Coder-7c3aed?style=for-the-badge)](https://github.com/StudioCodeAI/Lya-Studio-Coder)
-[![Plataforma](https://img.shields.io/badge/Windows-x64-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/StudioCodeAI/Lya-Studio-Coder/releases/latest)
-[![Local First](https://img.shields.io/badge/100%25-Local%20First-ff0055?style=for-the-badge)](#)
-[![Gratuito](https://img.shields.io/badge/Gratuito-para%20testar-22c55e?style=for-the-badge)](https://github.com/StudioCodeAI/Lya-Studio-Coder/releases/latest)
+*IDE multi-provider · Orquestração multi-agente · Local-first · Seu código, seu controle.*
+
+<br/>
+
+[![⬇️ Download Grátis](https://img.shields.io/badge/⬇️_DOWNLOAD_GRÁTIS-Lya_Studio_Coder_v1.0-7c3aed?style=for-the-badge&logoColor=white)](https://github.com/StudioCodeAI/Lya-Studio-Coder/releases/latest)
+[![Windows x64](https://img.shields.io/badge/Windows-10%20%2F%2011_x64-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#)
+[![Local First](https://img.shields.io/badge/🔒_100%25-Local_First-ff0055?style=for-the-badge)](#)
+[![Multi-Provider](https://img.shields.io/badge/🤖_Claude_·_Gemini_·_GPT-Ollama_local-22c55e?style=for-the-badge)](#)
 
 </div>
 
 ---
 
-## 🧠 Quem somos
+<div align="center">
 
-**Studio Code AI** é um estúdio independente de tecnologia fundado por um **Engenheiro de Software** com foco em uma missão clara: construir ferramentas de desenvolvimento com Inteligência Artificial que colocam o desenvolvedor no controle — sem vendor lock-in, sem caixas-pretas, sem abrir mão da privacidade do seu código.
+### 💡 Você usa 5 ferramentas de IA diferentes para desenvolver?<br/>A Lya unifica tudo em um único cockpit.
 
-Acreditamos que o futuro do desenvolvimento não pertence a uma única plataforma ou modelo de IA. Ele pertence ao desenvolvedor que escolhe suas próprias ferramentas, roda seus próprios modelos e decide como seu código é processado.
-
-> *"Se você pensa, você executa. Se você executa, você indexa. Se você indexa, você evolui."*
+</div>
 
 ---
 
-## 🛠️ O que construímos
+## 🌌 Lya Studio Coder — Nossa Missão
 
-### 🌌 [Lya Studio Coder](https://github.com/StudioCodeAI/Lya-Studio-Coder) — nosso produto principal
+Desenvolvemos para quem **vive de código e IA**. O problema que resolvemos é real: developers hoje saltam entre Claude, Gemini, ChatGPT, terminais, editores e automações — perdendo tempo, contexto e produtividade.
 
-Uma IDE de nova geração com orquestração multi-agente nativa. Um único cockpit para trabalhar com múltiplos provedores de IA simultaneamente.
+**Lya Studio Coder** é a resposta: uma IDE completa onde **múltiplos provedores de IA trabalham juntos**, no mesmo ambiente, com memória compartilhada, terminais reais e orquestração de agentes — tudo rodando **100% local** na sua máquina.
 
-| Capacidade | Detalhe |
-|---|---|
-| 🤖 **Multi-provider AI** | Claude · Gemini · GPT · Ollama (local) · OpenRouter |
-| 🎛️ **COSMOS Orchestrator** | Até 4 agentes de IA em paralelo, com motores API, CLI e local |
-| 🧠 **NeuroCORE** | Memória vetorial de longa duração com ChromaDB |
-| 📝 **Editor Monaco** | O mesmo motor do VS Code, com edição por IA via Ctrl+K |
-| 💻 **Terminal PTY nativo** | node-pty real, dentro da IDE |
-| 🔒 **LSCode Keychain** | Gerenciador centralizado de chaves API |
-| 🏗️ **Build & Debug real** | Node.js (CDP) e Python (debugpy/DAP) |
-| 🖥️ **Desktop self-contained** | Instalador `.exe` e `.msi` — sem instalar Node.js |
+> 🔒 **Seus dados nunca saem do seu computador.** Sem telemetria escondida. Sem nuvem obrigatória. Você traz suas chaves e decide o que conectar.
 
-**➡️ [Ver repositório completo →](https://github.com/StudioCodeAI/Lya-Studio-Coder)**
-**⬇️ [Download do instalador →](https://github.com/StudioCodeAI/Lya-Studio-Coder/releases/latest)**
-
----
-
-## 🎯 Nossa filosofia
-
-```
-Local-first    →  seus dados ficam na sua máquina
-Multi-provider →  você escolhe qual IA usar
-Open arch      →  extensível, sem caixas-pretas
-Dev-centric    →  o desenvolvedor é o piloto, não o passageiro
-```
-
----
-
-## 📦 Modelo de distribuição
-
-O **código-fonte** do Lya Studio Coder é **proprietário e fechado** — protegemos nossa propriedade intelectual enquanto o projeto está em desenvolvimento ativo.
-
-Os **instaladores são gratuitos** para uso pessoal e avaliação. Qualquer pessoa pode baixar, testar e dar feedback — e seu feedback vira melhoria de produto.
-
-> 💬 Encontrou um bug? Tem uma sugestão? **[Abra uma issue](https://github.com/StudioCodeAI/Lya-Studio-Coder/issues/new/choose)** ou **[participe das discussões](https://github.com/StudioCodeAI/Lya-Studio-Coder/discussions)**.
-
----
-
-## 👨‍💻 Fundador
-
-**Luis Antonio Cardozo**
-Engenheiro de Software · Bacharel em Engenharia de Software
-Faculdade Cesumar Maringá · Polo Ponta Grossa (2021)
-Fundador e arquiteto principal da Studio Code AI
-Ponta Grossa, Paraná — Brasil 🇧🇷
-
----
-
-## 🔗 Links
-
-| | |
-|---|---|
-| 🌌 **Lya Studio Coder** | [github.com/StudioCodeAI/Lya-Studio-Coder](https://github.com/StudioCodeAI/Lya-Studio-Coder) |
-| ⬇️ **Download** | [Releases](https://github.com/StudioCodeAI/Lya-Studio-Coder/releases/latest) |
-| 💬 **Comunidade** | [Discussions](https://github.com/StudioCodeAI/Lya-Studio-Coder/discussions) |
-| 🐞 **Reportar bug** | [Issues](https://github.com/StudioCodeAI/Lya-Studio-Coder/issues) |
-| ☕ **Apoiar o projeto** | [ko-fi.com/lyastudiocoder](https://ko-fi.com/lyastudiocoder) |
-
----
+<br/>
 
 <div align="center">
 
-**Feito com 🌌 para quem orquestra inteligência.**
+| 🚀 O que você ganha | ❌ O que você elimina |
+|:---|:---|
+| Um cockpit para todas as IAs | Pular entre 5+ abas e ferramentas |
+| Memória vetorial de longa duração | Repetir contexto em cada conversa |
+| 4 agentes rodando em paralelo | Orquestração manual e lenta |
+| Terminal real integrado com IA | Copiar e colar entre IDE e terminal |
+| Build, debug e run em um só lugar | Ambiente fragmentado |
+
+</div>
+
+---
+
+## 🛠️ Stack de Tecnologia
+
+```
+Frontend  →  React 19 · TypeScript · Monaco Editor (VS Code engine)
+Desktop   →  Tauri 2 · Rust · Self-contained installer (.exe + .msi)
+Backend   →  Node.js · Express · node-pty · SSE streaming
+IA Local  →  Ollama · ChromaDB · llama.cpp
+Providers →  Claude (Anthropic) · Gemini (Google) · OpenAI · OpenRouter
+```
+
+---
+
+## 🤖 Provedores Suportados
+
+<div align="center">
+
+| Provider | Tipo | Status |
+|:---:|:---:|:---:|
+| **Claude** (Anthropic) | ☁️ API | ✅ Estável |
+| **Gemini** (Google) | ☁️ API | ✅ Estável |
+| **GPT** (OpenAI) | ☁️ API | ✅ Estável |
+| **OpenRouter** | ☁️ Multi-model | ✅ Estável |
+| **Ollama** | 💻 Local offline | ✅ Estável |
+| **Groq** | ☁️ Ultra-fast | ✅ Estável |
+
+</div>
+
+---
+
+## 📦 Modelo de Negócio
+
+```
+✅  Instalador gratuito para uso pessoal e avaliação
+✅  Feedback da comunidade vira melhoria de produto
+🔒  Código-fonte proprietário — IP protegido
+🛣️  Roadmap público — você acompanha tudo
+```
+
+> **Por que gratuito para testar?** Porque acreditamos que software bom precisa ser
+> experimentado na prática. Baixe, use no seu dia a dia, dê feedback — e ajude a
+> construir a melhor IDE com IA do mercado.
+
+---
+
+## 👨‍💻 Quem está por trás
+
+<div align="center">
+
+**Luis Antonio Cardozo**
+Engenheiro de Software · Faculdade Cesumar Maringá / Polo Ponta Grossa (2021)
+Fundador e arquiteto principal · Ponta Grossa, Paraná 🇧🇷
+
+*"Construo sozinho o que acredito que o mundo precisa —*
+*ferramentas que respeitam o desenvolvedor, a privacidade e a soberania do código."*
+
+</div>
+
+---
+
+## 🗺️ Roadmap 2026
+
+- [x] ✅ v1.0.0 — Lançamento público com instalador assinado
+- [x] ✅ Chat multi-provider, terminal PTY, editor Monaco, NeuroCORE
+- [ ] 🔄 v1.1.0 — COSMOS multi-agente público + melhorias de estabilidade
+- [ ] 🍎 macOS / Linux build
+- [ ] 🧩 Memória embedded (sem dependência de Python)
+- [ ] 🌐 Ollama Cloud provider
+- [ ] 🏪 Marketplace de Skills
+
+---
+
+## 🌍 Comunidade & Contato
+
+<div align="center">
+
+[![GitHub Discussions](https://img.shields.io/badge/💬_Discussions-Participe-7c3aed?style=for-the-badge)](https://github.com/StudioCodeAI/Lya-Studio-Coder/discussions)
+[![Issues](https://img.shields.io/badge/🐞_Issues-Reporte_bugs-ff0055?style=for-the-badge)](https://github.com/StudioCodeAI/Lya-Studio-Coder/issues)
+[![Ko-fi](https://img.shields.io/badge/☕_Ko--fi-Apoie_o_projeto-FF5E5B?style=for-the-badge)](https://ko-fi.com/lyastudiocoder)
+[![Download](https://img.shields.io/badge/⬇️_Releases-Download_grátis-22c55e?style=for-the-badge)](https://github.com/StudioCodeAI/Lya-Studio-Coder/releases/latest)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+⭐ **Se a Lya te interessa, dê uma estrela no repositório — ajuda muito!**
+
+**[github.com/StudioCodeAI/Lya-Studio-Coder](https://github.com/StudioCodeAI/Lya-Studio-Coder)**
+
+<br/>
+
+*Feito com 🌌 para quem orquestra inteligência.*
+*Se você pensa, você executa. Se você executa, você indexa. Se você indexa, você evolui.*
 
 </div>
