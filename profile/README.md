@@ -72,7 +72,8 @@ Os **instaladores são gratuitos** para uso pessoal e avaliação. Qualquer pess
 ## 👨‍💻 Fundador
 
 **Luis Antonio Cardozo**
-Engenheiro de Software · Bacharel pela Unicesumar (2021)
+Engenheiro de Software · Bacharel em Engenharia de Software
+Faculdade Cesumar Maringá · Polo Ponta Grossa (2021)
 Fundador e arquiteto principal da Studio Code AI
 Ponta Grossa, Paraná — Brasil 🇧🇷
 
